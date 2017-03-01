@@ -1,0 +1,7 @@
+{
+  "cmd": "\"C:\\Program Files (x86)\\Corona Labs\\Corona SDK\\\"Corona Simulator.exe\"\"",
+  "args": ["main.lua"],
+  "name": "\"Corona SDK\"",
+  "cwd": "{PROJECT_PATH}",
+  "sh": true
+}
